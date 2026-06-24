@@ -25,8 +25,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(124, 58, 237, 0.15);
-  color: #a78bfa;
+  background: var(--color-brand-subtle);
+  color: var(--color-brand-accent);
   border-radius: var(--radius-md);
   margin-bottom: var(--space-4);
   flex-shrink: 0;

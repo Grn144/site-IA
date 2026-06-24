@@ -69,3 +69,9 @@
 .scrollIndicator:hover {
   color: var(--color-text-primary);
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .scrollIndicator {
+    animation: none;
+  }
+}

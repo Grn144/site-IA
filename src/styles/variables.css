@@ -9,6 +9,8 @@
   --color-text-secondary: #8b8fa8;
   --color-border-glass: rgba(255, 255, 255, 0.08);
   --color-overlay: rgba(10, 10, 15, 0.65);
+  --color-brand-subtle: rgba(124, 58, 237, 0.15);
+  --color-brand-accent: #a78bfa;
 
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --text-display: clamp(2.5rem, 6vw, 5rem);
