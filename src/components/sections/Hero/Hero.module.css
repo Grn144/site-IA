@@ -56,6 +56,7 @@
   position: absolute;
   bottom: var(--space-8);
   left: 50%;
+  transform: translateX(-50%);
   z-index: 2;
   color: var(--color-text-secondary);
   animation: bounce 2s ease-in-out infinite;
