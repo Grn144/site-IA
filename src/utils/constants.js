@@ -12,4 +12,4 @@ export const ANIMATION = {
   stagger: 0.1,
 }
 
-export const SECTIONS = ['hero', 'sobre']
+export const SECTIONS = ['hero', 'sobre', 'como-funciona', 'casos-de-uso', 'faq']
