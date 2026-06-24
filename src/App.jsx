@@ -1,12 +1,13 @@
 import Navbar from './components/layout/Navbar/Navbar'
 import Footer from './components/layout/Footer/Footer'
+import Hero from './components/sections/Hero/Hero'
 
 export default function App() {
   return (
     <>
       <Navbar />
       <main>
-        <p style={{ color: 'white', padding: '4rem 2rem' }}>Conteúdo principal</p>
+        <Hero />
       </main>
       <Footer />
     </>
